@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyWeather", "MyWeather\MyWeather.vcxproj", "{8650FDF4-B515-46DF-A956-1A4377AB2C2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8650FDF4-B515-46DF-A956-1A4377AB2C2F}.Debug|x64.ActiveCfg = Debug|x64
+		{8650FDF4-B515-46DF-A956-1A4377AB2C2F}.Debug|x64.Build.0 = Debug|x64
+		{8650FDF4-B515-46DF-A956-1A4377AB2C2F}.Debug|x86.ActiveCfg = Debug|Win32
+		{8650FDF4-B515-46DF-A956-1A4377AB2C2F}.Debug|x86.Build.0 = Debug|Win32
+		{8650FDF4-B515-46DF-A956-1A4377AB2C2F}.Release|x64.ActiveCfg = Release|x64
+		{8650FDF4-B515-46DF-A956-1A4377AB2C2F}.Release|x64.Build.0 = Release|x64
+		{8650FDF4-B515-46DF-A956-1A4377AB2C2F}.Release|x86.ActiveCfg = Release|Win32
+		{8650FDF4-B515-46DF-A956-1A4377AB2C2F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF40F78A-C45C-4BDC-AE68-00A158F742DD}
+	EndGlobalSection
+EndGlobal
